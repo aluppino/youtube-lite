@@ -23,3 +23,6 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 	> npm install
 	> npm start
 ```
+
+####API Key####
+You must provide a Google/YouTube API Key in ```src/index.js```.
